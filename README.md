@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navaneethkrishna11&theme=radical" alt="navaneethkrishna11" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,Django JS**
+- 🌱 I’m currently learning **Flutter,REACT.JS**
 
 - 📫 How to reach me **navaneethkrishna1999@gmail.com**
 
