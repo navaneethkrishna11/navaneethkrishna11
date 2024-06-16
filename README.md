@@ -1,5 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Navaneeth krishna</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+👋+I'm+Navaneeth+Krishna" alt="Typing SVG" width="200%" />
+</p>
+
 <h3 align="center">A passionate program developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navaneethkrishna11&label=Profile%20views&color=0e75b6&style=flat" alt="navaneethkrishna11" /> </p>
 
@@ -55,3 +59,8 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=navaneethkrishna11&theme=tokyo-night"/>
+
+
+
+
+
